@@ -6,7 +6,7 @@ Buatkan modul login aplikasi dalam project Next.js  dengan diteruskan pemanfaata
 Buat tampilan deskripsi negara-negara seperti contoh dibawah ini
 
 ## Notes
-1. Belum ada fitur login
+1. Belum ada fitur login, namun api untuk register dan mendapatkan token sanctum sudah dibuat.
 
 ## How to use
 1. pastikan sudah menjalankan projek https://github.com/ekopba29/latv2/blob/main/README.md
